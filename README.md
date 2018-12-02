@@ -17,6 +17,17 @@ Conditional random fields are _surprisingly_ effective at tagging these
 sentences. I want to beat the NYT's model, and not by just a little, but by a
 statistically-significant margin.
 
+#### Stats to Beat
+
+| FIELD     | ACCURACY |
+|-----------|----------|
+| name      | 82.0%    |
+| qty       | 81.4%    |
+| range_end | 96.6%    |
+| unit      | 91.8%    |
+| comment   | 73.6%    |
+| OVERALL   | 85.08%   |
+
 ### Increase the dataset size
 
 The NYT provided a nice dataset to start work with. However, there's definitely
