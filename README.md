@@ -19,6 +19,10 @@ statistically-significant margin.
 
 #### Stats to Beat
 
+The below statistics were calculated by training a CRF model on the training
+corpus (found in `train.csv`), and then evaluating it using the ingredient
+sentences in `test.csv`.
+
 | FIELD     | ACCURACY |
 |-----------|----------|
 | name      | 82.0%    |
@@ -27,6 +31,8 @@ statistically-significant margin.
 | unit      | 91.8%    |
 | comment   | 73.6%    |
 | OVERALL   | 85.08%   |
+
+These are pretty solid results, but I think that LSTMs can do better.
 
 ### Increase the dataset size
 
@@ -38,4 +44,5 @@ generalize. Otherwise, it's going to overfit to just NYT recipes.
 
 I'm tired of just blindly bumbling around when using deep learning. I want to
 build something, and know _why_ I built it. Up until now, it's been mostly
-trial-and-error.
+trial-and-error. I'd like to be able to at least justify my system architecture
+and learn a little more about the space of part-of-speech tagging.
