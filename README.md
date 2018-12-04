@@ -4,9 +4,8 @@ A while ago, I stumbled upon a [fantastic write-up](https://open.blogs.nytimes.c
 from the New York Times about structured predictions using conditional random
 fields (CRFs). However, if you look at when the article was released, you'll
 notice it was released in 2015. At the time of writing, that's over 3 years ago.
-Natural Language Processing (NLP) has come a long way since then, with the
-advent of Long Short-Term Memory (LSTM) units, word embeddings, and
-sequence-to-sequence modelling. I firmly believe that the use of recurrent
+NLP has come a long way since then, with the advent of LSTMs, word embeddings,
+and sequence-to-sequence modelling. I firmly believe that the use of recurrent
 neural networks can improve upon the overall ability of the tagger.
 
 ## Goals
