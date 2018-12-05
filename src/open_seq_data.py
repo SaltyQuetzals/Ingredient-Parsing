@@ -2,15 +2,15 @@
 from typing import List, Tuple
 
 TAG_MAP = {
-    "OTHER": -1,
-    "B-NAME": 0,
-    "I-NAME": 1,
-    "B-COMMENT": 2,
-    "I-COMMENT": 3,
-    "B-RANGE_END": 4,
-    "B-UNIT": 5,
-    "I-UNIT": 6,
-    "B-QTY": 7,
+    "OTHER": 0,
+    "B-NAME": 1,
+    "I-NAME": 2,
+    "B-COMMENT": 3,
+    "I-COMMENT": 4,
+    "B-RANGE_END": 5,
+    "B-UNIT": 6,
+    "I-UNIT": 7,
+    "B-QTY": 8
 }
 
 
