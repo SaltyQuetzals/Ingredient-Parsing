@@ -22,6 +22,23 @@ The below statistics were calculated by training a CRF model on the training
 corpus (found in `train.csv`), and then evaluating it using the ingredient
 sentences in `test.csv`.
 
+|             | precision |   recall | f1-score |  support |
+|-------------|-----------|----------|----------|----------|
+|       OTHER |      0.32 |     0.62 |     0.42 |      216 |
+|      B-NAME |      0.85 |     0.85 |     0.85 |      524 |
+|      I-NAME |      0.71 |     0.72 |     0.71 |      392 |
+|   B-COMMENT |      0.78 |     0.67 |     0.72 |      372 |
+|   I-COMMENT |      0.85 |     0.68 |     0.75 |      708 |
+| B-RANGE_END |      0.33 |     1.00 |     0.50 |        3 |
+|      B-UNIT |      0.96 |     0.91 |     0.93 |      350 |
+|      I-UNIT |      0.00 |     0.00 |     0.00 |        0 |
+|       B-QTY |      0.97 |     0.97 |     0.97 |      421 |
+|             |           |          |          |          |
+|   micro avg |      0.78 |     0.78 |     0.78 |     2986 |
+|   macro avg |      0.64 |     0.71 |     0.65 |     2986 |
+|weighted avg |      0.81 |     0.78 |     0.79 |     2986 |
+| samples avg |      0.78 |     0.78 |     0.78 |     2986 |
+
 | FIELD     | ACCURACY |
 |-----------|----------|
 | name      | 82.0%    |
