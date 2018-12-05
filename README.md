@@ -39,14 +39,7 @@ sentences in `test.csv`.
 |weighted avg |      0.81 |     0.78 |     0.79 |     2986 |
 | samples avg |      0.78 |     0.78 |     0.78 |     2986 |
 
-| FIELD     | ACCURACY |
-|-----------|----------|
-| name      | 82.0%    |
-| qty       | 81.4%    |
-| range_end | 96.6%    |
-| unit      | 91.8%    |
-| comment   | 73.6%    |
-| OVERALL   | 85.08%   |
+![Confusion Matrix](CRF_ConfusionMatrix.png)
 
 These are pretty solid results, but I think that LSTMs can do better.
 
