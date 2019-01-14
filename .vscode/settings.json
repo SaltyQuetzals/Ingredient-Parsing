@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "/home/quontas/anaconda3/bin/python",
+    "python.pythonPath": "/home/quontas/anaconda3/envs/allennlp/bin/python",
     "python.linting.enabled": true
 }
