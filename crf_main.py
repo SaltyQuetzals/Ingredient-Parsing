@@ -1,15 +1,14 @@
 import torch
-from torch.optim import SGD
+from allennlp.common import Params
 from allennlp.data.dataset_readers import SequenceTaggingDatasetReader
+from allennlp.data.iterators import BucketIterator
 from allennlp.data.vocabulary import Vocabulary
 from allennlp.models import CrfTagger
 from allennlp.modules.seq2seq_encoders import PytorchSeq2SeqWrapper
 from allennlp.modules.text_field_embedders import BasicTextFieldEmbedder
 from allennlp.modules.token_embedders import Embedding
-from allennlp.data.iterators import BucketIterator
-from allennlp.common import Params
 from allennlp.training import Trainer
-
+from torch.optim import SGD
 
 TRAIN_FILEPATH = "data/train.seqtags"
 VALID_FILEPATH = "data/valid.seqtags"
