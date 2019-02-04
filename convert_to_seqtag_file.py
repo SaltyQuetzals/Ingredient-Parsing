@@ -17,8 +17,9 @@ def parse_example(example: str) -> Example:
     """
     pairs = []
     for line in example.split("\n"):
-        token, _, _, _, _, tag = line.split("\t")
-        pairs.append((token, tag))
+        if line.strip():
+            token, _, _, _, _, tag = line.split("\t")
+            pairs.append((token, tag))
     return pairs
 
 

@@ -1,0 +1,481 @@
+1###B-QTY	cup###B-UNIT	carrot###B-NAME	juice###I-NAME	(###OTHER	see###B-COMMENT	recipe###I-COMMENT	)###OTHER
+1/4###B-QTY	cup###B-UNIT	chopped###B-COMMENT	,###OTHER	cored###I-COMMENT	,###OTHER	seeded###I-COMMENT	hot###B-NAME	cherry###I-NAME	peppers###I-NAME	without###B-COMMENT	salt###I-COMMENT
+1/2###B-QTY	cup###B-UNIT	chopped###B-COMMENT	Italian###B-NAME	parsley###I-NAME
+2###B-QTY	tablespoons###B-UNIT	olive###B-NAME	oil###I-NAME
+4###B-QTY	4-inch-long###B-COMMENT	cinnamon###B-NAME	sticks###B-UNIT	,###B-COMMENT	broken###I-COMMENT	into###I-COMMENT	several###I-COMMENT	pieces###I-COMMENT
+Salt###B-NAME	and###I-NAME	freshly###B-COMMENT	ground###I-COMMENT	black###B-NAME	pepper###I-NAME	to###B-COMMENT	taste###I-COMMENT
+1/2###B-QTY	cup###B-UNIT	(###OTHER	1###OTHER	stick###OTHER	)###OTHER	unsalted###B-NAME	butter###I-NAME	,###OTHER	melted###OTHER	and###OTHER	cooled###OTHER	to###OTHER	room###OTHER	temperature###OTHER
+2$1/2###B-QTY	quarts###OTHER	water###B-NAME
+1###B-QTY	to###OTHER	2###B-RANGE_END	jalapeno###B-NAME	peppers###I-NAME	,###OTHER	chopped###B-COMMENT	fine###I-COMMENT
+1/2###B-QTY	cup###B-UNIT	(###OTHER	2###OTHER	ounces###OTHER	)###OTHER	dried###B-NAME	cranberries###I-NAME	,###OTHER	cut###OTHER	into###OTHER	small###OTHER	pieces###OTHER
+Extra-virgin###OTHER	olive###B-NAME	oil###I-NAME	as###OTHER	needed###OTHER
+Salt###B-NAME	and###I-NAME	freshly###B-COMMENT	ground###I-COMMENT	black###B-NAME	pepper###I-NAME
+1$2/3###OTHER	cups###B-UNIT	sugar###B-NAME
+3/4###B-QTY	cup###B-UNIT	Parmesan###B-NAME	cheese###I-NAME	,###OTHER	grated###B-COMMENT
+2###B-QTY	cups###OTHER	boiling###B-COMMENT	water###B-NAME
+2###B-QTY	tablespoons###B-UNIT	corn###B-NAME	or###B-COMMENT	peanut###I-COMMENT	oil###B-NAME
+3/4###B-QTY	cup###B-UNIT	sugar###B-NAME
+Pan###B-NAME	spray###I-NAME
+Salt###B-NAME	and###I-NAME	freshly###B-COMMENT	ground###I-COMMENT	white###B-NAME	pepper###I-NAME	to###B-COMMENT	taste###I-COMMENT
+Pinch###OTHER	of###OTHER	cayenne###B-NAME
+1###B-QTY	cup###B-UNIT	oats###B-NAME
+6###B-QTY	ounces###B-UNIT	fresh###B-COMMENT	soft###I-COMMENT	goat###B-NAME	cheese###I-NAME
+1###B-QTY	quart###B-UNIT	heavy###B-NAME	cream###I-NAME
+1###B-QTY	tablespoon###B-UNIT	butter###B-NAME
+Half###OTHER	a###B-COMMENT	small###I-COMMENT	anchovy###B-NAME	fillet###B-UNIT
+6###B-QTY	shiitake###OTHER	or###OTHER	domestic###OTHER	mushrooms###B-NAME	,###OTHER	stems###OTHER	removed###OTHER	,###OTHER	caps###OTHER	diced###OTHER
+2###B-QTY	cloves###B-UNIT	garlic###B-NAME
+2###B-QTY	tablespoons###B-UNIT	capers###B-NAME	,###OTHER	drained###B-COMMENT
+1###B-QTY	medium###B-COMMENT	yellow###B-NAME	onion###I-NAME	,###B-COMMENT	finely###I-COMMENT	diced###I-COMMENT
+Salt###B-NAME
+1###B-QTY	cup###B-UNIT	fresh###B-COMMENT	mayonnaise###B-NAME
+3/4###B-QTY	teaspoon###B-UNIT	caraway###B-NAME	seeds###I-NAME	,###OTHER	ground###OTHER
+1###B-QTY	cup###B-UNIT	whole-grain###B-NAME	or###I-NAME	dark###I-NAME	rye###I-NAME	flour###I-NAME
+Chopped###OTHER	chives###B-NAME
+3###B-QTY	dashes###B-UNIT	Angostura###B-NAME	bitters###I-NAME
+3###B-QTY	cups###B-UNIT	clam###B-NAME	broth###I-NAME
+1###B-QTY	tablespoon###OTHER	ground###B-COMMENT	cumin###B-NAME
+2###B-QTY	tablespoons###B-UNIT	Italian###B-NAME	parsley###I-NAME	,###OTHER	chopped###B-COMMENT
+Coarse###B-COMMENT	salt###B-NAME	and###I-NAME	freshly###B-COMMENT	ground###I-COMMENT	pepper###B-NAME	to###B-COMMENT	taste###I-COMMENT
+1/2###B-QTY	teaspoon###B-UNIT	salt###B-NAME
+4###B-QTY	sweet###B-COMMENT	or###I-COMMENT	hot###I-COMMENT	Italian###I-COMMENT	sausages###B-NAME
+1/2###B-QTY	pound###B-UNIT	cleaned###B-COMMENT	squid###B-NAME	,###OTHER	tentacles###I-COMMENT	separated###I-COMMENT	,###OTHER	bodies###I-COMMENT	cut###I-COMMENT	into###I-COMMENT	rings###I-COMMENT
+1###B-QTY	cup###B-UNIT	coarse###B-NAME	bread###I-NAME	crumbs###I-NAME
+1###B-QTY	onion###B-NAME	,###B-COMMENT	about###I-COMMENT	1/4###I-COMMENT	pound###I-COMMENT	,###I-COMMENT	peeled###I-COMMENT
+2###B-QTY	sweet###B-COMMENT	cured###I-COMMENT	Chinese###I-COMMENT	sausages###B-NAME	(###B-COMMENT	lap###I-COMMENT	cheung###I-COMMENT	)###I-COMMENT	,###I-COMMENT	available###I-COMMENT	in###OTHER	stores###I-COMMENT	that###I-COMMENT	specialize###I-COMMENT	in###OTHER	Asian###I-COMMENT	food###I-COMMENT
+1$1/2###B-QTY	tablespoons###B-UNIT	green###B-NAME	peppercorns###I-NAME	,###OTHER	crushed###B-COMMENT
+1###B-QTY	pint###B-UNIT	creme###B-NAME	fraiche###I-NAME
+1###B-QTY	teaspoon###B-UNIT	garlic###B-NAME	powder###I-NAME
+Muscat-macerated###B-NAME	fruit###I-NAME	(###B-COMMENT	<a###OTHER	href="http://cooking.nytimes.com/recipes/9946-muscat-macerated-fruit">see###OTHER	recipe</a>###OTHER	)###B-COMMENT
+1/2###B-QTY	cup###B-UNIT	cornstarch###B-NAME
+8###B-QTY	ounces###B-UNIT	onion###B-NAME
+1###B-QTY	teaspoon###B-UNIT	vanilla###B-NAME	extract###I-NAME
+4###B-QTY	cups###OTHER	water###B-NAME	(###OTHER	more###B-COMMENT	if###I-COMMENT	necessary###I-COMMENT	)###OTHER
+2###B-QTY	teaspoons###B-UNIT	kosher###B-NAME	salt###I-NAME	,###OTHER	more###B-COMMENT	as###I-COMMENT	needed###I-COMMENT
+2###B-QTY	tablespoons###OTHER	finely###B-COMMENT	chopped###I-COMMENT	crystallized###B-NAME	ginger###I-NAME
+Salt###OTHER	and###B-NAME	freshly###B-COMMENT	ground###I-COMMENT	pepper###B-NAME	to###B-COMMENT	taste###I-COMMENT
+2###B-QTY	eggs###B-NAME
+1###B-QTY	pound###B-UNIT	ground###B-COMMENT	beef###B-NAME	or###OTHER	lamb###I-COMMENT	or###OTHER	both###I-COMMENT
+7###B-QTY	ounces###B-UNIT	mozzarella###B-NAME
+1###B-QTY	teaspoon###B-UNIT	Dijon-style###B-NAME	mustard###I-NAME
+2###B-QTY	large###B-COMMENT	egg###OTHER	whites###B-COMMENT	,###I-COMMENT	at###I-COMMENT	room###I-COMMENT	temperature###I-COMMENT
+Pinch###OTHER	of###OTHER	crushed###B-NAME	red###I-NAME	pepper###I-NAME	for###B-COMMENT	garnish###I-COMMENT	,###I-COMMENT	optional###I-COMMENT
+1###B-QTY	medium###B-COMMENT	onion###B-NAME	,###B-COMMENT	diced###I-COMMENT
+Freshly###B-COMMENT	ground###I-COMMENT	pepper###B-NAME	to###B-COMMENT	taste###I-COMMENT
+1###B-QTY	tablespoon###B-UNIT	salt###B-NAME
+Kajmak###B-NAME	with###B-COMMENT	herbs###I-COMMENT	(###OTHER	<a###OTHER	href="http://cooking.nytimes.com/recipes/1013012-kajmak-with-herbs">see###OTHER	recipe</a>###OTHER	)###OTHER
+4###B-QTY	small###B-COMMENT	white###I-COMMENT	onions###B-NAME	,###B-COMMENT	peeled###I-COMMENT	and###I-COMMENT	finely###I-COMMENT	chopped###I-COMMENT
+Lemon###B-NAME	rémoulade###I-NAME	(###B-COMMENT	<a###OTHER	href="http://cooking.nytimes.com/recipes/4922-lemon-remoulade">see###OTHER	recipe</a>###OTHER	)###B-COMMENT
+1###B-QTY	cup###B-UNIT	light###B-NAME	cream###I-NAME
+4###B-QTY	ounces###B-UNIT	seedless###B-NAME	tamarind###I-NAME	pulp###I-NAME	,###OTHER	about###OTHER	1/4###OTHER	cup###OTHER	(###OTHER	or###OTHER	substitute###OTHER	1/2###OTHER	cup###OTHER	prepared###OTHER	tamarind###B-NAME	juice###OTHER	)###OTHER
+1###B-QTY	cup###B-UNIT	200###OTHER	grams###OTHER	superfine###B-NAME	sugar###I-NAME
+1$1/4###B-QTY	cups###B-UNIT	loosely###B-COMMENT	packed###I-COMMENT	,###I-COMMENT	stemmed###I-COMMENT	purslane###B-NAME
+2###B-QTY	pounds###B-UNIT	green###B-NAME	tomatoes###I-NAME	,###I-NAME	sliced###I-NAME
+18###B-QTY	cherrystone###B-COMMENT	clams###B-NAME
+1/4###B-QTY	cup###B-UNIT	orange###B-NAME	or###B-COMMENT	pineapple###I-COMMENT	juice###I-COMMENT
+2###B-QTY	ribs###OTHER	celery###B-NAME	,###OTHER	chopped###B-COMMENT
+2###B-QTY	pounds###B-UNIT	carrots###B-NAME	,###B-COMMENT	peeled###I-COMMENT	,###I-COMMENT	trimmed###I-COMMENT	and###I-COMMENT	halved###I-COMMENT	if###I-COMMENT	more###I-COMMENT	than###I-COMMENT	1/2-inch###I-COMMENT	thick###I-COMMENT
+2###B-QTY	cups###B-UNIT	orange-flavored###B-COMMENT	sparkling###B-NAME	water###I-NAME	,###B-COMMENT	chilled###I-COMMENT
+2/3###OTHER	cup###B-UNIT	dried###B-NAME	cherries###I-NAME
+1###B-QTY	tablespoon###OTHER	plain###B-NAME	yogurt###I-NAME
+16###B-QTY	toast###B-NAME	points###I-NAME	(###OTHER	crusts###B-COMMENT	removed###I-COMMENT	)###OTHER
+1/2###B-QTY	teaspoon###B-UNIT	salt###B-NAME
+2$1/2###B-QTY	cups###B-UNIT	light###B-COMMENT	brown###B-NAME	sugar###I-NAME
+Unsweetened###OTHER	cocoa###B-NAME	powder###I-NAME	as###B-COMMENT	needed###I-COMMENT
+2###B-QTY	teaspoons###OTHER	chili###B-NAME	powder###I-NAME
+Sour###B-NAME	cream###I-NAME	to###B-COMMENT	garnish###I-COMMENT	,###I-COMMENT	if###I-COMMENT	desired###I-COMMENT
+1###B-QTY	clove###B-UNIT	garlic###B-NAME	,###OTHER	minced###B-COMMENT
+1###B-QTY	tablespoon###B-UNIT	sugar###B-NAME
+4###B-QTY	small###B-COMMENT	artichokes###B-NAME	,###B-COMMENT	about###I-COMMENT	1/2###I-COMMENT	pound###I-COMMENT	each###I-COMMENT
+1/4###B-QTY	teaspoon###B-UNIT	salt###B-NAME
+1$1/3###OTHER	cups###B-UNIT	quinoa###B-NAME	,###OTHER	rinsed###B-COMMENT	well###I-COMMENT	in###I-COMMENT	sieve###I-COMMENT
+2###B-QTY	onions###B-NAME	(###OTHER	12###I-COMMENT	ounces###I-COMMENT	)###I-COMMENT	,###I-COMMENT	peeled###I-COMMENT	and###I-COMMENT	sliced###I-COMMENT	thin###I-COMMENT	(###OTHER	2$1/2###I-COMMENT	cups###I-COMMENT	)###I-COMMENT
+1###B-QTY	medium###B-COMMENT	zucchini###B-NAME	,###B-COMMENT	diced###I-COMMENT
+2###B-QTY	tablespoons###B-UNIT	finely###B-COMMENT	chopped###I-COMMENT	shallots###B-NAME
+2###B-QTY	large###OTHER	eggs###B-NAME
+2###B-QTY	tablespoons###B-UNIT	good-quality###B-COMMENT	balsamic###B-NAME	vinegar###I-NAME
+1/4###B-QTY	teaspoon###B-UNIT	salt###B-NAME
+Salt###B-NAME	and###I-NAME	freshly###B-COMMENT	ground###I-COMMENT	black###B-NAME	pepper###I-NAME	to###B-COMMENT	taste###I-COMMENT
+4###B-QTY	hard-cooked###B-NAME	eggs###I-NAME	,###I-NAME	chopped###I-NAME
+2###B-QTY	tablespoons###B-UNIT	chopped###B-NAME	chives###I-NAME
+1/2###B-QTY	teaspoon###B-UNIT	salt###B-NAME
+1###B-QTY	tablespoon###B-UNIT	extra###B-NAME	virgin###I-NAME	olive###I-NAME	oil###I-NAME
+1/4###B-QTY	teaspoon###B-UNIT	salt###B-NAME
+1###B-QTY	stick###B-UNIT	(###OTHER	4###OTHER	ounces###OTHER	)###OTHER	cold###B-COMMENT	unsalted###B-NAME	butter###I-NAME	,###I-COMMENT	cubed###I-COMMENT
+5###B-QTY	cups###B-UNIT	hot###B-COMMENT	chicken###B-NAME	stock###I-NAME
+1###B-QTY	teaspoon###OTHER	cinnamon###B-NAME
+1###B-QTY	1-pound###I-COMMENT	can###I-COMMENT	chick###B-NAME	peas###I-NAME	,###B-COMMENT	drained###I-COMMENT
+1###B-QTY	tablespoon###B-UNIT	minced###B-COMMENT	fresh###I-COMMENT	ginger###B-NAME
+1/2###OTHER	cup###B-UNIT	chopped###OTHER	chives###B-NAME
+3###B-QTY	pounds###B-UNIT	pork###B-NAME	(###OTHER	preferably###B-COMMENT	heart###I-COMMENT	and###I-COMMENT	tongue###I-COMMENT	,###I-COMMENT	but###I-COMMENT	pork###B-NAME	loin###B-COMMENT	cut###I-COMMENT	into###I-COMMENT	two###I-COMMENT	pieces###I-COMMENT	also###I-COMMENT	works###I-COMMENT	well###I-COMMENT	)###OTHER
+1/2###B-QTY	cup###B-UNIT	minced###B-COMMENT	fresh###I-COMMENT	chives###B-NAME
+2###B-QTY	teaspoons###B-UNIT	pink###B-COMMENT	,###OTHER	green###I-COMMENT	and###I-COMMENT	black###I-COMMENT	peppercorns###B-NAME	,###OTHER	cracked###I-COMMENT
+6###B-QTY	large###B-COMMENT	egg###B-NAME	yolks###B-COMMENT
+Shaved###OTHER	Parmesan###B-NAME	for###OTHER	garnish###OTHER
+1###B-QTY	teaspoon###B-UNIT	chopped###OTHER	fresh###B-NAME	rosemary###I-NAME
+1###OTHER	medium-size###OTHER	fennel###OTHER	bulb###OTHER	,###OTHER	quartered###OTHER	,###OTHER	cored###OTHER	and###OTHER	cut###OTHER	in###OTHER	3/4###OTHER	inch###OTHER	pieces###OTHER
+1/2###B-QTY	teaspoon###B-UNIT	fennel###B-NAME	seeds###I-NAME
+Salt###OTHER	to###OTHER	taste###OTHER
+Salt###B-NAME	to###B-COMMENT	taste###I-COMMENT	,###I-COMMENT	if###I-COMMENT	desired###I-COMMENT
+2###B-QTY	egg###B-NAME	yolks###I-NAME
+1###B-QTY	teaspoon###B-UNIT	olive###B-NAME	oil###I-NAME
+12###B-QTY	cloves###B-UNIT	garlic###B-NAME	,###OTHER	smashed###B-COMMENT
+6###B-QTY	cups###B-UNIT	boiling###B-COMMENT	water###B-NAME
+cup###B-UNIT	all-purpose###B-NAME	flour###I-NAME
+1###B-QTY	cup###B-UNIT	cornmeal###B-NAME
+1###B-QTY	tablespoon###B-UNIT	chopped###B-COMMENT	flat-leaf###I-COMMENT	parsley###B-NAME
+1/2###B-QTY	teaspoon###B-UNIT	grainy###B-COMMENT	mustard###B-NAME
+2###B-QTY	quarts###OTHER	defatted###B-COMMENT	chicken###B-NAME	broth###I-NAME
+1###B-QTY	teaspoon###B-UNIT	kosher###B-COMMENT	salt###B-NAME
+A###OTHER	few###OTHER	shiso###B-NAME	(###OTHER	perilla###OTHER	)###OTHER	leaves###B-NAME	,###OTHER	roughly###OTHER	chopped###OTHER	(###OTHER	optional###OTHER	)###OTHER	\n###OTHER
+2###B-QTY	tablespoons###B-UNIT	roughly###OTHER	chopped###OTHER	parsley###B-NAME
+2###B-QTY	cups###OTHER	ruby###B-NAME	port###I-NAME
+3###B-QTY	unripe###B-NAME	pears###I-NAME
+1###B-QTY	pound###B-UNIT	potatoes###B-NAME	,###OTHER	peeled###B-COMMENT	and###I-COMMENT	quartered###I-COMMENT
+1###B-QTY	teaspoon###B-UNIT	of###OTHER	salt###B-NAME
+1###B-QTY	tablespoon###B-UNIT	red###B-NAME	wine###I-NAME	vinegar###I-NAME	or###I-NAME	other###I-NAME	vinegar###I-NAME
+3###B-QTY	anchovies###B-NAME	chopped###B-COMMENT	fine###I-COMMENT
+1###B-QTY	pound###B-UNIT	mussels###B-NAME	,###OTHER	well###B-COMMENT	scrubbed###I-COMMENT
+1/2###B-QTY	cup###B-UNIT	candied###B-NAME	peel###I-NAME
+1###B-QTY	teaspoon###B-UNIT	grated###B-COMMENT	lemon###B-NAME	zest###I-NAME
+1/2###B-QTY	cup###B-UNIT	finely###B-COMMENT	minced###I-COMMENT	onion###B-NAME
+3/4###B-QTY	cup###B-UNIT	kosher###B-NAME	salt###I-NAME
+1$1/2###B-QTY	tablespoons###B-UNIT	lemon###B-NAME	juice###I-NAME
+1###B-QTY	garlic###B-NAME	clove###B-UNIT	,###OTHER	cut###OTHER	in###OTHER	half###OTHER	,###OTHER	green###OTHER	shoots###OTHER	removed###OTHER
+Orange###B-NAME	twist###OTHER	,###OTHER	for###B-COMMENT	garnish###I-COMMENT
+3###B-QTY	bunches###OTHER	scallions###B-NAME	(###OTHER	about###OTHER	3/4###OTHER	pound###OTHER	)###OTHER
+2/3###OTHER	cup###B-UNIT	diced###B-COMMENT	red###I-COMMENT	onion###B-NAME
+3###B-QTY	fresh###B-NAME	basil###I-NAME	leaves###I-NAME
+1###B-QTY	pound###B-UNIT	spaghetti###B-NAME
+1###B-QTY	ounce###B-UNIT	prosciutto###B-NAME	,###OTHER	chopped###B-COMMENT
+2$1/2###B-QTY	tablespoons###B-UNIT	grated###B-COMMENT	ginger###B-NAME
+12###B-QTY	large###OTHER	blackberries###B-NAME	,###OTHER	\nstems###OTHER	removed###OTHER	(###OTHER	plus\n2###OTHER	for###OTHER	garnish###OTHER	)###OTHER
+5###B-QTY	cups###B-UNIT	vegetable###B-NAME	stock###I-NAME	or###B-COMMENT	broth###I-COMMENT	,###I-COMMENT	heated###I-COMMENT
+2###B-QTY	tablespoons###B-UNIT	heavy###B-NAME	cream###I-NAME
+3###B-QTY	garlic###B-NAME	cloves###B-UNIT
+12###B-QTY	baby###B-NAME	artichokes###I-NAME	,###OTHER	or###OTHER	6###I-COMMENT	medium###I-COMMENT	or###OTHER	large###I-COMMENT	artichokes###B-NAME
+Butternut###B-NAME	Squash###I-NAME	Tuiles###I-NAME
+5###B-QTY	tablespoons###B-UNIT	butter###B-NAME	,###OTHER	softened###B-COMMENT
+1###B-QTY	heaping###OTHER	teaspoon###B-UNIT	minced###B-NAME	fresh###I-NAME	sage###I-NAME
+1###B-QTY	cup###B-UNIT	sugar###B-NAME
+1###B-QTY	tablespoon###B-UNIT	toasted###B-NAME	sesame###I-NAME	oil###I-NAME
+Salt###B-NAME	and###I-NAME	freshly###B-COMMENT	ground###I-COMMENT	black###B-NAME	pepper###I-NAME	to###B-COMMENT	taste###I-COMMENT
+1###B-QTY	tablespoon###B-UNIT	plus###B-COMMENT	1###B-QTY	teaspoon###I-COMMENT	salt###B-NAME
+2###B-QTY	teaspoons###B-UNIT	butter###B-NAME
+1$1/4###B-QTY	cups###OTHER	cold###B-COMMENT	club###B-NAME	soda###I-NAME
+1###B-QTY	pound###B-UNIT	pork###B-NAME	tenderloin###I-NAME
+1/2###B-QTY	cup###B-UNIT	soy###B-NAME	sauce###I-NAME
+1/2###B-QTY	pound###B-UNIT	tofu###B-NAME
+1/4###B-QTY	cup###B-UNIT	chopped###B-COMMENT	Italian###I-COMMENT	parsley###B-NAME
+1###B-QTY	tablespoon###B-UNIT	finely###B-COMMENT	minced###I-COMMENT	garlic###B-NAME
+2###B-QTY	tablespoons###OTHER	grapeseed###B-NAME	oil###I-NAME
+1###B-QTY	teaspoon###B-UNIT	kosher###B-NAME	salt###I-NAME
+4###B-QTY	tomatoes###B-NAME	,###OTHER	sliced###B-COMMENT	thin###I-COMMENT
+55###B-QTY	grams###B-UNIT	whole###B-NAME	wheat###I-NAME	flour###I-NAME	(###B-COMMENT	1/2###I-COMMENT	cup###I-COMMENT	)###I-COMMENT
+2###B-QTY	to###B-COMMENT	4###I-COMMENT	fresh###I-COMMENT	curry###B-NAME	leaves###I-NAME	(###B-COMMENT	can###I-COMMENT	be###I-COMMENT	found###I-COMMENT	in###I-COMMENT	specialty###I-COMMENT	stores###I-COMMENT	or###I-COMMENT	on###I-COMMENT	line###I-COMMENT	)###I-COMMENT
+About###OTHER	15###B-QTY	scallions###B-NAME	,###OTHER	trimmed###I-COMMENT	and###OTHER	cut###I-COMMENT	into###I-COMMENT	2-inch###I-COMMENT	lengths###I-COMMENT	,###OTHER	or###OTHER	2###I-COMMENT	or###OTHER	3###I-COMMENT	spring###I-COMMENT	onions###I-COMMENT	or###OTHER	1###I-COMMENT	large###I-COMMENT	onion###I-COMMENT	,###OTHER	peeled###I-COMMENT	and###OTHER	sliced###I-COMMENT
+1/3###OTHER	cup###B-UNIT	long-grain###B-COMMENT	rice###B-NAME
+1###B-QTY	tablespoon###B-UNIT	capers###B-NAME	(###OTHER	optional###B-COMMENT	)###OTHER
+2###B-QTY	teaspoons###B-UNIT	paprika###B-NAME
+Kosher###OTHER	salt###B-NAME	and###I-NAME	freshly###B-COMMENT	ground###I-COMMENT	black###B-NAME	pepper###I-NAME	to###B-COMMENT	taste###I-COMMENT
+2###B-QTY	teaspoons###B-UNIT	salt###B-NAME
+2###B-QTY	teaspoons###B-UNIT	finely###OTHER	chopped###OTHER	ginger###B-NAME
+2###B-QTY	acorn###B-NAME	squash###I-NAME
+1/2###B-QTY	cup###B-UNIT	Cognac###B-NAME	(###OTHER	one###B-COMMENT	may###I-COMMENT	substitute###I-COMMENT	a###I-COMMENT	favorite###I-COMMENT	liquor###I-COMMENT	or###I-COMMENT	Madeira###I-COMMENT	wine###I-COMMENT	)###OTHER
+1/4###B-QTY	cup###B-UNIT	olive###B-NAME	oil###I-NAME
+6###B-QTY	teaspoons###B-UNIT	coarse###B-COMMENT	salt###B-NAME
+1/2###B-QTY	cup###B-UNIT	120###B-COMMENT	milliliters###I-COMMENT	heavy###B-NAME	cream###I-NAME
+3/4###B-QTY	cup###B-UNIT	honey###B-NAME
+4###B-QTY	boneless###B-COMMENT	mahi-mahi###B-NAME	fillets###I-NAME	,###OTHER	about###I-COMMENT	6###I-COMMENT	ounces###I-COMMENT	each###I-COMMENT	,###OTHER	or###OTHER	any###I-COMMENT	similar###I-COMMENT	fish###I-COMMENT	fillets###B-NAME	like###I-COMMENT	halibut###I-COMMENT	or###OTHER	swordfish###I-COMMENT
+1/2###B-QTY	teaspoon###B-UNIT	red###B-NAME	pepper###I-NAME	flakes###I-NAME
+1###B-QTY	teaspoon###B-UNIT	toasted###B-COMMENT	sesame###B-NAME	seeds###I-NAME	,###B-COMMENT	plus###I-COMMENT	a###I-COMMENT	pinch###I-COMMENT
+2###B-QTY	tablespoons###B-UNIT	heavy###B-NAME	cream###I-NAME
+4###B-QTY	to###OTHER	5###B-RANGE_END	cups###B-UNIT	beef###B-NAME	broth###I-NAME	,###OTHER	preferably###B-COMMENT	unsalted###I-COMMENT
+3###B-QTY	beets###B-NAME	(###B-COMMENT	about###I-COMMENT	3/4###I-COMMENT	pound###I-COMMENT	)###I-COMMENT	,###I-COMMENT	trimmed###I-COMMENT
+Salt###B-NAME	and###I-NAME	freshly###B-COMMENT	ground###I-COMMENT	black###B-NAME	pepper###I-NAME	to###B-COMMENT	taste###I-COMMENT
+1/2###B-QTY	teaspoon###B-UNIT	ground###B-COMMENT	cumin###B-NAME
+3###B-QTY	pounds###B-UNIT	lamb###B-NAME	shoulder###I-NAME	in###I-NAME	2-inch###I-NAME	chunks###I-NAME	,###I-NAME	with###I-NAME	bone###I-NAME
+1/2###B-QTY	pound###B-UNIT	Belgian###B-NAME	endive###I-NAME
+1###B-QTY	small###OTHER	shallot###B-NAME	,###OTHER	peeled###B-COMMENT	and###I-COMMENT	chopped###I-COMMENT
+24###B-QTY	whole###B-COMMENT	black###I-COMMENT	peppercorns###B-NAME	,###B-COMMENT	crushed###I-COMMENT
+1/4###B-QTY	teaspoon###B-UNIT	ground###B-NAME	cloves###I-NAME
+White###B-COMMENT	of###I-COMMENT	one###OTHER	egg###B-NAME
+1###B-COMMENT	10-ounce###I-COMMENT	can###I-COMMENT	red###I-COMMENT	kidney###B-NAME	beans###I-NAME	,###B-COMMENT	drained###I-COMMENT
+1$1/2###B-QTY	cloves###B-UNIT	garlic###B-NAME	,###OTHER	minced###B-COMMENT
+2###B-QTY	cloves###B-UNIT	garlic###B-NAME	,###OTHER	peeled###B-COMMENT
+6###B-QTY	fresh###B-COMMENT	or###I-COMMENT	2###I-COMMENT	dry###I-COMMENT	bay###B-NAME	leaves###I-NAME
+1/4###B-QTY	cup###B-UNIT	fresh###B-NAME	lemon###I-NAME	juice###I-NAME
+2###B-QTY	tablespoons###B-UNIT	minced###B-COMMENT	onion###B-NAME
+1###B-QTY	tablespoon###B-UNIT	olive###B-NAME	oil###I-NAME
+2###B-QTY	tablespoons###OTHER	tomato###B-NAME	paste###I-NAME
+1###B-QTY	bay###B-NAME	leaf###I-NAME
+1/2###B-QTY	cup###B-UNIT	shredded###B-COMMENT	spinach###B-NAME
+1###B-QTY	bay###B-NAME	leaf###I-NAME
+10###B-QTY	black###B-NAME	peppercorns###I-NAME
+2###B-QTY	teaspoons###B-UNIT	peanut###B-NAME	oil###I-NAME
+8###B-QTY	ounces###B-UNIT	flank###B-NAME	steak###B-COMMENT
+About###B-COMMENT	2###B-QTY	teaspoons###B-UNIT	caviar###B-NAME	(###B-COMMENT	see###I-COMMENT	note###I-COMMENT	)###I-COMMENT
+1/2###B-QTY	teaspoon###B-UNIT	black###B-NAME	pepper###I-NAME
+1###B-QTY	tablespoon###B-UNIT	sesame###B-NAME	oil###I-NAME
+3###B-QTY	hard-cooked###B-COMMENT	eggs###B-NAME
+1###B-QTY	teaspoon###B-UNIT	curry###B-NAME	powder###I-NAME
+1###B-QTY	tablespoon###B-UNIT	minced###B-COMMENT	shallot###B-NAME
+2###B-QTY	teaspoons###B-UNIT	salt###B-NAME	,###OTHER	more###B-COMMENT	as###I-COMMENT	needed###I-COMMENT
+10###B-QTY	leaves###B-COMMENT	fresh###I-COMMENT	basil###B-NAME	,###B-COMMENT	shredded###I-COMMENT	(###I-COMMENT	1/3###I-COMMENT	cup###I-COMMENT	)###I-COMMENT
+1###B-QTY	cup###B-UNIT	milk###B-NAME
+2###B-QTY	generous###OTHER	bunches###B-UNIT	beet###OTHER	greens###B-NAME	(###OTHER	about###OTHER	3/4###OTHER	pound###OTHER	)###OTHER	,###OTHER	stemmed###OTHER	and###OTHER	washed###OTHER
+1/4###B-QTY	cup###B-UNIT	maple###B-NAME	syrup###I-NAME
+Salt###B-NAME	to###B-COMMENT	taste###I-COMMENT
+1/4###B-QTY	teaspoon###B-UNIT	chili-pepper###B-NAME	sauce###I-NAME
+4###B-QTY	slices###B-UNIT	French###B-NAME	bread###I-NAME	,###I-NAME	crusts###I-NAME	removed###I-NAME	,###I-NAME	cut###I-NAME	in###I-NAME	1/4-inch###I-NAME	cubes###I-NAME	,###I-NAME	enough###I-NAME	to###I-NAME	make###I-NAME	1###I-NAME	cup###I-NAME
+3###B-QTY	large###I-COMMENT	yellow###I-COMMENT	onions###B-NAME	(###B-COMMENT	about###I-COMMENT	3###B-QTY	pounds###I-COMMENT	)###I-COMMENT	,###I-COMMENT	halved###I-COMMENT	and###I-COMMENT	sliced###I-COMMENT
+1/4###B-QTY	cup###B-UNIT	chopped###B-COMMENT	fresh###I-COMMENT	oregano###B-NAME
+3###B-QTY	tablespoons###OTHER	olive###B-NAME	oil###I-NAME
+3###B-QTY	tablespoons###B-UNIT	unsalted###B-NAME	butter###I-NAME
+1/2###B-QTY	teaspoon###B-UNIT	ground###B-COMMENT	cumin###B-NAME
+5###B-QTY	large###OTHER	egg###B-NAME	yolks###I-NAME
+1/2###B-QTY	cup###B-UNIT	creme###B-NAME	fraiche###I-NAME
+1###B-QTY	tablespoon###B-UNIT	sherry###B-NAME	vinegar###I-NAME
+Salt###B-NAME	to###B-COMMENT	taste###I-COMMENT
+1###B-QTY	carrot###B-NAME	,###OTHER	halved###B-COMMENT	and###I-COMMENT	sliced###I-COMMENT	thin###I-COMMENT
+1###B-QTY	tablespoon###B-UNIT	tamarind###B-NAME	paste###I-NAME
+1###B-QTY	tablespoon###B-UNIT	chopped###B-COMMENT	fresh###I-COMMENT	coriander###B-NAME
+6###B-QTY	tablespoons###OTHER	sugar###B-NAME
+1###B-QTY	medium-size###B-COMMENT	onion###B-NAME
+1/2###B-QTY	cucumber###B-NAME	,###OTHER	or###OTHER	1###OTHER	Persian###OTHER	cucumber###B-NAME	,###OTHER	peeled###OTHER	if###OTHER	waxy###OTHER	,###OTHER	seeded###OTHER	and###OTHER	sliced###OTHER	thin###OTHER
+1/3###OTHER	cup###B-UNIT	minced###B-COMMENT	fresh###I-COMMENT	dill###B-NAME	,###I-COMMENT	or###I-COMMENT	2###I-COMMENT	tablespoons###I-COMMENT	dried###I-COMMENT	dill###B-NAME	weed###I-COMMENT
+1###B-QTY	pound###B-UNIT	smoked###B-COMMENT	sausage###B-NAME
+1/2###B-QTY	cup###B-UNIT	grated###B-COMMENT	Parmigiano-Reggiano###B-NAME
+1/2###B-QTY	teaspoon###B-UNIT	salt###B-NAME
+Salt###B-NAME	to###B-COMMENT	taste###I-COMMENT	,###I-COMMENT	if###I-COMMENT	desired###I-COMMENT
+8###B-QTY	ounces###B-UNIT	salmon###B-NAME	fillet###I-NAME
+2###B-QTY	tablespoons###B-UNIT	ground###B-NAME	cumin###I-NAME
+2###B-QTY	tablespoons###B-UNIT	vegetable###B-NAME	oil###I-NAME
+1/8###OTHER	teaspoon###B-UNIT	salt###B-NAME
+1/2###B-QTY	cup###B-UNIT	toasted###B-COMMENT	pine###B-NAME	nuts###I-NAME
+Paprika###B-NAME
+1/2###B-QTY	teaspoon###B-UNIT	cumin###B-NAME
+2###B-QTY	to###OTHER	3###OTHER	tablespoons###B-UNIT	freshly###B-COMMENT	grated###I-COMMENT	Parmesan###B-NAME	or###B-COMMENT	Gruyère###I-COMMENT	cheese###I-COMMENT
+3###B-QTY	tablespoons###OTHER	cream###B-NAME	cheese###I-NAME	,###OTHER	softened###B-COMMENT
+2###B-QTY	tablespoons###B-UNIT	unsweetened###B-NAME	cocoa###I-NAME	powder###I-NAME
+1/4###B-QTY	cup###B-UNIT	tomato###B-NAME	paste###I-NAME
+4###B-QTY	tablespoons###B-UNIT	Demerara###B-NAME	or###I-COMMENT	granulated###I-COMMENT	light###I-COMMENT	brown###I-COMMENT	sugar###B-NAME
+3###B-QTY	tablespoons###B-UNIT	minced###B-COMMENT	onion###B-NAME
+6###B-QTY	sprigs###B-UNIT	thyme###B-NAME	,###OTHER	more###B-COMMENT	for###I-COMMENT	garnish###I-COMMENT
+1/2###B-QTY	large###OTHER	bunch###B-UNIT	cilantro###B-NAME	,###OTHER	leaves###OTHER	and###OTHER	stems###OTHER	,###OTHER	well###OTHER	rinsed###OTHER
+2$1/2###B-QTY	cups###B-UNIT	flour###B-NAME
+1/2###B-QTY	cup###B-UNIT	garlic###B-NAME	cloves###I-NAME	,###OTHER	peeled###OTHER	(###OTHER	approximately###OTHER	2###OTHER	heads###OTHER	)###OTHER
+1###B-QTY	egg###B-NAME	yolk###B-COMMENT
+1/2###B-QTY	cup###B-UNIT	sugar###B-NAME
+1###B-QTY	cup###B-UNIT	packed###B-COMMENT	parsley###B-NAME	leaves###I-NAME	(###B-COMMENT	about###I-COMMENT	1###B-QTY	ounce###I-COMMENT	)###I-COMMENT	,###I-COMMENT	washed###I-COMMENT	and###I-COMMENT	dried###I-COMMENT
+8###B-QTY	large###B-COMMENT	eggs###B-NAME
+3###B-QTY	bunches###OTHER	mixed###B-COMMENT	dark###B-NAME	greens###I-NAME	(###OTHER	like###B-COMMENT	kale###I-COMMENT	,###OTHER	chard###I-COMMENT	,###OTHER	dandelion###I-COMMENT	greens###B-NAME	,###OTHER	collards###I-COMMENT	)###OTHER	,###OTHER	washed###I-COMMENT	,###OTHER	stalks###I-COMMENT	trimmed###I-COMMENT	by###I-COMMENT	2###I-COMMENT	inches###I-COMMENT
+1/4###B-QTY	cup###B-UNIT	rice###B-NAME	wine###I-NAME	vinegar###I-NAME
+1/4###B-QTY	teaspoon###B-UNIT	dried###B-COMMENT	thyme###B-NAME
+1###B-COMMENT	4-###I-COMMENT	to###I-COMMENT	5-pound###I-COMMENT	brisket###B-NAME
+1###B-QTY	pound###B-UNIT	homemade###B-COMMENT	or###I-COMMENT	store-bought###I-COMMENT	gnocchi###B-NAME
+4###B-QTY	cloves###B-UNIT	garlic###B-NAME	,###OTHER	minced###B-COMMENT
+1###B-QTY	pound###B-UNIT	eggplant###B-NAME
+4###B-QTY	ounces###B-UNIT	peanut-butter###B-NAME	syrup###I-NAME	(###B-COMMENT	<a###OTHER	href="http://cooking.nytimes.com/recipes/6616-peanut-butter-syrup">see###OTHER	recipe</a>###OTHER	)###B-COMMENT
+1/2###B-QTY	cup###B-UNIT	golden###B-NAME	raisins###I-NAME
+2###B-QTY	pounds###OTHER	starchy###B-NAME	potatoes###I-NAME	(###OTHER	russets###B-COMMENT	or###I-COMMENT	Yukon###I-COMMENT	golds###I-COMMENT	)###OTHER	,###B-COMMENT	peeled###I-COMMENT	and###I-COMMENT	cut###I-COMMENT	in###I-COMMENT	large###I-COMMENT	dice###I-COMMENT
+1/2###B-QTY	cup###B-UNIT	peach###B-NAME	preserves###I-NAME	or###B-COMMENT	jam###I-COMMENT
+Freshly###B-COMMENT	ground###I-COMMENT	black###B-NAME	pepper###I-NAME	to###B-COMMENT	taste###I-COMMENT
+Salt###OTHER	to###OTHER	taste###OTHER
+2###B-QTY	pounds###B-UNIT	wild###B-NAME	mushrooms###I-NAME	,###B-COMMENT	morels###I-COMMENT	or###I-COMMENT	portobellos###I-COMMENT	,###I-COMMENT	cut###I-COMMENT	in###I-COMMENT	1/2-inch###I-COMMENT	pieces###I-COMMENT
+1$1/2###B-QTY	teaspoons###B-UNIT	salt###B-NAME
+1###B-QTY	tablespoon###B-UNIT	14###B-COMMENT	grams###I-COMMENT	unsalted###B-NAME	butter###I-NAME
+1/2###B-QTY	pound###B-UNIT	unsalted###B-NAME	butter###I-NAME	plus###B-COMMENT	1###I-COMMENT	tablespoon###I-COMMENT	melted###I-COMMENT	for###I-COMMENT	pan###I-COMMENT
+4###B-QTY	bass###B-NAME	steaks###OTHER	(###OTHER	about###B-COMMENT	6###I-COMMENT	to###I-COMMENT	8###I-COMMENT	ounces###I-COMMENT	each###I-COMMENT	)###OTHER
+2###B-QTY	tablespoons###B-UNIT	toasted###B-COMMENT	almonds###B-NAME
+6###B-QTY	to###OTHER	8###OTHER	apricots###B-NAME	,###OTHER	cut###OTHER	in###OTHER	half###OTHER	,###OTHER	pits###OTHER	removed###OTHER	(###OTHER	1$1/2###OTHER	to###OTHER	2###OTHER	apricots###B-NAME	per###OTHER	person###OTHER	,###OTHER	depending###OTHER	on###OTHER	the###OTHER	size###OTHER	)###OTHER
+1###B-QTY	large###B-COMMENT	onion###B-NAME	,###B-COMMENT	chopped###I-COMMENT
+10###B-QTY	grams###B-UNIT	fine###B-NAME	sea###I-NAME	salt###I-NAME	(###B-COMMENT	2$1/4###I-COMMENT	teaspoons###I-COMMENT	)###I-COMMENT	,###I-COMMENT	more###I-COMMENT	as###I-COMMENT	needed###I-COMMENT
+3###B-QTY	pounds###B-UNIT	lean###B-NAME	chuck###I-NAME	or###B-COMMENT	round###I-COMMENT	steak###I-COMMENT
+2###B-QTY	garlic###B-NAME	cloves###B-UNIT	,###OTHER	minced###OTHER
+3###B-QTY	tablespoons###B-UNIT	fresh###B-COMMENT	lemon###B-NAME	juice###I-NAME
+2###B-QTY	tablespoons###B-UNIT	unsalted###B-NAME	butter###I-NAME
+1/2###B-QTY	cup###B-UNIT	chopped###OTHER	walnuts###B-NAME
+Salt###B-NAME	to###B-COMMENT	taste###I-COMMENT
+6###B-QTY	plump###B-COMMENT	figs###B-NAME	,###B-COMMENT	trimmed###I-COMMENT	and###I-COMMENT	halved###I-COMMENT
+Salt###B-NAME	and###I-NAME	pepper###I-NAME
+6###B-QTY	garlic###B-NAME	cloves###OTHER	,###OTHER	minced###B-COMMENT	or###I-COMMENT	sliced###I-COMMENT
+2###B-QTY	tablespoons###B-UNIT	salted###B-NAME	butter###I-NAME
+2$1/2###OTHER	cups###B-UNIT	couscous###B-NAME	,###I-NAME	preferably###I-NAME	whole###I-NAME	wheat###I-NAME
+1###B-QTY	cup###B-UNIT	white###B-COMMENT	seedless###I-COMMENT	grapes###B-NAME
+1/2###B-QTY	teaspoon###B-UNIT	kosher###B-NAME	salt###I-NAME
+1/2###B-QTY	teaspoon###B-UNIT	salt###B-NAME
+1/2###B-QTY	teaspoon###B-UNIT	paprika###B-NAME
+4###B-QTY	ounces###B-UNIT	mixed###B-COMMENT	green###I-COMMENT	and###I-COMMENT	red###I-COMMENT	lettuce###B-NAME
+6###B-QTY	ounces###B-UNIT	dried###B-COMMENT	apples###B-NAME
+6###B-QTY	tablespoons###B-UNIT	freshly###B-COMMENT	grated###I-COMMENT	Parmesan###B-NAME	cheese###I-NAME
+1###B-QTY	cup###B-UNIT	chopped###B-COMMENT	canned###I-COMMENT	plum###B-NAME	tomatoes###I-NAME	,###B-COMMENT	with###I-COMMENT	juice###I-COMMENT
+1###B-QTY	teaspoon###B-UNIT	kosher###B-NAME	salt###I-NAME
+1###B-QTY	clove###B-UNIT	garlic###B-NAME
+2###B-QTY	cloves###B-UNIT	garlic###B-NAME	,###OTHER	finely###B-COMMENT	chopped###I-COMMENT
+Kosher###B-COMMENT	salt###B-NAME	and###I-NAME	freshly###B-COMMENT	ground###I-COMMENT	pepper###B-NAME	to###B-COMMENT	taste###I-COMMENT
+Juice###B-COMMENT	1/2###B-QTY	lemon###B-NAME
+1###B-QTY	pound###B-UNIT	carrots###B-NAME	,###B-COMMENT	trimmed###I-COMMENT	,###I-COMMENT	peeled###I-COMMENT	and###I-COMMENT	cut###I-COMMENT	in###I-COMMENT	1/4-inch###I-COMMENT	rounds###I-COMMENT
+Persian###B-NAME	cucumbers###I-NAME	,###OTHER	thinly###B-COMMENT	sliced###I-COMMENT	and###I-COMMENT	marinated###I-COMMENT	briefly###I-COMMENT	with###I-COMMENT	seasoned###I-COMMENT	rice###I-COMMENT	vinegar###I-COMMENT
+10###B-QTY	-ounce###OTHER	package###B-NAME	frozen###I-NAME	peas###I-NAME
+3/4###B-QTY	cup###B-UNIT	confectioners'###B-NAME	sugar###I-NAME	,###OTHER	sifted###B-COMMENT
+1/2###B-QTY	clove###B-UNIT	garlic###B-NAME	,###OTHER	finely###B-COMMENT	diced###I-COMMENT	or###I-COMMENT	grated###I-COMMENT	on###I-COMMENT	Microplane###I-COMMENT
+2###B-QTY	cloves###B-UNIT	garlic###B-NAME	,###OTHER	peeled###B-COMMENT	and###I-COMMENT	cut###I-COMMENT	into###I-COMMENT	very###I-COMMENT	thin###I-COMMENT	slices###I-COMMENT
+1###B-QTY	pound###B-UNIT	sushi-grade###B-COMMENT	tuna###B-NAME	loin###I-NAME
+1/2###B-QTY	cup###B-UNIT	chicken###B-NAME	stock###I-NAME	or###B-COMMENT	water###I-COMMENT
+1/4###B-QTY	cup###B-UNIT	minced###B-COMMENT	shallots###B-NAME
+3###B-QTY	tablespoons###B-UNIT	soy###B-NAME	sauce###I-NAME
+6###B-QTY	tablespoons###OTHER	unsalted###B-NAME	butter###I-NAME
+4###B-QTY	cups###B-UNIT	arugula###B-NAME	,###I-NAME	preferably###I-NAME	feathery###I-NAME	wild###I-NAME	arugula###I-NAME	,###I-NAME	stemmed###I-NAME
+2###B-QTY	tablespoons###B-UNIT	clarified###B-COMMENT	butter###B-NAME	,###B-COMMENT	melted###I-COMMENT
+1###B-QTY	teaspoon###B-UNIT	baking###B-NAME	powder###I-NAME
+6###B-QTY	cups###B-UNIT	(###B-COMMENT	approximately###I-COMMENT	)###I-COMMENT	unbleached###I-COMMENT	flour###B-NAME
+1/4###B-QTY	cup###B-UNIT	fresh###B-NAME	lemon###I-NAME	juice###I-NAME	,###B-COMMENT	preferably###I-COMMENT	from###I-COMMENT	Meyer###I-COMMENT	lemons###OTHER	(###I-COMMENT	2###I-COMMENT	to###OTHER	3###I-COMMENT	lemons###OTHER	)###I-COMMENT	,###I-COMMENT	more###I-COMMENT	to###OTHER	taste###I-COMMENT
+1/4###OTHER	cup###OTHER	,###OTHER	plus###OTHER	2###OTHER	tablespoons###B-UNIT	,###OTHER	all-purpose###B-NAME	flour###I-NAME
+Finely###OTHER	chopped###B-NAME	parsley###I-NAME	for###I-NAME	garnish###I-NAME
+1/4###B-QTY	cup###B-UNIT	extra###B-COMMENT	virgin###I-COMMENT	olive###B-NAME	oil###I-NAME
+1###B-QTY	pound###B-UNIT	5###B-COMMENT	ounces###I-COMMENT	Arborio###B-NAME	rice###I-NAME
+1###B-QTY	chicken###B-NAME	,###I-NAME	2$1/2###I-NAME	pounds###I-NAME	,###I-NAME	cut###I-NAME	into###I-NAME	serving###I-NAME	pieces###I-NAME
+1###B-QTY	large###B-NAME	eggplant###I-NAME
+1###B-QTY	to###OTHER	2###B-RANGE_END	teaspoons###B-UNIT	ground###B-COMMENT	cumin###B-NAME
+1/2###B-QTY	teaspoon###B-UNIT	white###B-NAME	pepper###I-NAME
+1/4###B-QTY	cup###B-UNIT	wheat###B-NAME	germ###I-NAME
+2/3###OTHER	cup###B-UNIT	finely###B-COMMENT	chopped###I-COMMENT	celery###B-NAME
+1/4###B-QTY	cup###B-UNIT	olive###B-NAME	oil###I-NAME
+1###B-QTY	tablespoon###B-UNIT	curry###B-NAME	powder###I-NAME
+1###B-QTY	yellow###B-NAME	onion###I-NAME	,###OTHER	diced###B-COMMENT
+2###B-QTY	sprigs###B-UNIT	parsley###B-NAME
+3###B-QTY	tablespoons###B-UNIT	chopped###B-COMMENT	flat-leaf###I-COMMENT	parsley###B-NAME
+Duck###B-NAME	confit###I-NAME	(###B-COMMENT	<a###OTHER	href="http://cooking.nytimes.com/recipes/7041-duck-confit">see###OTHER	recipe</a>###OTHER	)###B-COMMENT
+6###B-QTY	very###OTHER	thin###OTHER	slices###B-UNIT	pancetta###B-NAME
+2###B-QTY	tablespoons###B-UNIT	butter###B-NAME
+3###B-QTY	or###OTHER	4###OTHER	radishes###B-NAME	,###B-COMMENT	thinly###I-COMMENT	sliced###I-COMMENT	,###I-COMMENT	for###I-COMMENT	garnish###I-COMMENT
+2$1/2###B-QTY	tablespoons###B-UNIT	cornstarch###B-NAME	dissolved###B-COMMENT	in###I-COMMENT	3###I-COMMENT	tablespoons###B-UNIT	water###I-COMMENT
+1###B-QTY	teaspoon###B-UNIT	sugar###B-NAME
+Black###B-NAME	pepper###I-NAME	,###OTHER	to###B-COMMENT	taste###I-COMMENT
+1$1/2###B-QTY	cups###B-UNIT	buttermilk###B-NAME
+2###B-QTY	tablespoons###B-UNIT	sesame###B-NAME	seeds###I-NAME
+1###B-QTY	teaspoon###B-UNIT	Dijon###B-NAME	mustard###I-NAME
+1/4###B-QTY	cup###B-UNIT	finely###B-COMMENT	chopped###I-COMMENT	parsley###B-NAME
+1/4###B-QTY	cup###B-UNIT	chopped###B-COMMENT	fresh###I-COMMENT	chives###B-NAME	or###B-COMMENT	scallion###I-COMMENT	greens###I-COMMENT
+1###B-QTY	large###OTHER	butternut###B-NAME	squash###I-NAME	(###OTHER	about###OTHER	1$1/2###OTHER	pounds###OTHER	)###OTHER
+1###B-QTY	tablespoon###B-UNIT	Shao###B-NAME	Hsing###I-NAME	rice###I-NAME	wine###I-NAME	or###I-NAME	dry###I-NAME	sherry###I-NAME
+4###B-QTY	cups###B-UNIT	buttermilk###B-NAME
+About###B-COMMENT	1###B-QTY	cup###B-UNIT	finely###B-COMMENT	crushed###I-COMMENT	ice###B-NAME
+1###B-QTY	teaspoon###B-UNIT	salt###B-NAME
+1###B-QTY	clove###B-UNIT	garlic###B-NAME	,###OTHER	peeled###B-COMMENT
+Salt###B-NAME	,###I-NAME	ground###B-COMMENT	black###B-NAME	pepper###I-NAME	and###I-NAME	cayenne###I-NAME	to###B-COMMENT	taste###I-COMMENT
+6###B-QTY	ribs###OTHER	celery###B-NAME	,###OTHER	diced###B-COMMENT	(###I-COMMENT	3###I-COMMENT	cups###I-COMMENT	)###I-COMMENT
+1###B-QTY	tablespoon###B-UNIT	unsalted###B-NAME	butter###I-NAME
+Salt###OTHER	and###B-NAME	pepper###I-NAME
+3###B-QTY	cups###B-UNIT	wine###B-NAME	vinegar###I-NAME	(###OTHER	approximately###B-COMMENT	)###OTHER
+1/3###OTHER	cup###B-UNIT	vegetable###B-NAME	stock###I-NAME
+1###B-QTY	quart###B-UNIT	buttermilk###B-NAME
+1/2###B-QTY	teaspoon###B-UNIT	baking###B-NAME	soda###I-NAME
+1###B-QTY	clove###B-NAME
+1/2###B-QTY	teaspoon###B-UNIT	salt###B-NAME	,###OTHER	plus###B-COMMENT	more###I-COMMENT	to###I-COMMENT	taste###I-COMMENT
+1/2###B-QTY	teaspoon###B-UNIT	turmeric###B-NAME
+4###B-QTY	cups###B-UNIT	cooked###I-COMMENT	chickpeas###B-NAME	(###OTHER	about###I-COMMENT	1###OTHER	28-ounce###I-COMMENT	can###I-COMMENT	)###OTHER	,###I-COMMENT	drained###I-COMMENT	(###OTHER	reserve###I-COMMENT	1###OTHER	cup###B-UNIT	liquid###I-COMMENT	)###OTHER
+white###B-NAME	pepper###I-NAME
+Triple###B-NAME	recipe###I-NAME	for###I-NAME	Aunt###I-NAME	Chick's###I-NAME	Egg###I-NAME	Meringue###I-NAME	(###B-COMMENT	<a###OTHER	href="http://cooking.nytimes.com/recipes/9513-aunt-chicks-egg-meringue">see###OTHER	recipe</a>###OTHER	)###B-COMMENT
+1$1/2###B-QTY	tablespoons###B-UNIT	unsalted###B-NAME	butter###I-NAME
+1$1/2###B-QTY	teaspoons###B-UNIT	vanilla###B-NAME	extract###I-NAME
+1/2###B-QTY	cup###B-UNIT	dry###B-NAME	white###I-NAME	wine###I-NAME
+Salt###B-NAME	to###OTHER	taste###OTHER
+Salt###B-NAME
+1###B-QTY	ounce###B-UNIT	dried###OTHER	porcini###B-NAME
+1$1/2###B-QTY	ounces###B-UNIT	pancetta###B-NAME	,###OTHER	finely###B-COMMENT	diced###I-COMMENT
+3/4###B-QTY	cup###B-UNIT	finely###B-NAME	diced###I-NAME	carrot###I-NAME
+1###B-QTY	potato###B-NAME	,###OTHER	about###B-COMMENT	2/3###I-COMMENT	pound###I-COMMENT
+3###B-QTY	tablespoons###OTHER	finely###B-COMMENT	chopped###I-COMMENT	chives###B-NAME
+2/3###OTHER	cup###B-UNIT	buttermilk###B-NAME
+2###B-QTY	cups###B-UNIT	packed###B-COMMENT	fresh###I-COMMENT	basil###B-NAME	leaves###I-NAME	(###B-COMMENT	no###I-COMMENT	stems###I-COMMENT	)###I-COMMENT
+6###B-QTY	large###B-COMMENT	eggs###B-NAME
+1/2###B-QTY	cup###B-UNIT	sliced###B-COMMENT	pitted###B-NAME	green###I-NAME	olives###I-NAME
+1###B-QTY	cup###B-UNIT	water###B-NAME
+3###B-QTY	pounds###B-UNIT	turkey###B-NAME	bones###I-NAME
+1/2###B-QTY	vanilla###B-NAME	bean###I-NAME	,###OTHER	split###B-COMMENT	lengthwise###I-COMMENT
+2###B-QTY	large###B-COMMENT	oranges###B-NAME	,###B-COMMENT	halved###I-COMMENT	and###I-COMMENT	thinly###I-COMMENT	sliced###I-COMMENT
+1###B-QTY	teaspoon###OTHER	baking###B-NAME	soda###I-NAME
+6###B-QTY	tablespoons###B-UNIT	extra-virgin###B-COMMENT	olive###B-NAME	oil###I-NAME
+4###B-QTY	tablespoons###B-UNIT	butter###B-NAME	plus###I-NAME	butter###I-NAME	for###I-NAME	greasing###I-NAME	a###I-NAME	cake###I-NAME	pan###OTHER
+1###B-QTY	pinch###B-UNIT	cinnamon###B-NAME
+3###B-QTY	cups###B-UNIT	chopped###B-COMMENT	celery###B-NAME
+2###B-QTY	jalapeno###B-NAME	peppers###I-NAME	,###OTHER	seeded###B-COMMENT	and###I-COMMENT	finely###I-COMMENT	chopped###I-COMMENT
+1###B-QTY	cup###B-UNIT	extra###B-NAME	virgin###I-NAME	olive###I-NAME	oil###I-NAME
+Coarse###B-COMMENT	salt###B-NAME	and###I-NAME	freshly###B-COMMENT	ground###I-COMMENT	pepper###B-NAME	to###B-COMMENT	taste###I-COMMENT
+2###B-QTY	pounds###B-UNIT	fava###B-NAME	beans###I-NAME	,###I-NAME	shelled###I-NAME
+Salt###OTHER	and###B-NAME	freshly###I-NAME	ground###I-NAME	pepper###I-NAME	to###I-NAME	taste###I-NAME
+4###B-QTY	tablespoons###B-UNIT	butter###B-NAME
+4###B-QTY	ounces###B-UNIT	goat###B-NAME	cheese###I-NAME
+2###B-QTY	tablespoons###OTHER	za’atar###B-NAME	,###OTHER	optional###B-COMMENT
+3###B-QTY	whole###B-COMMENT	cloves###B-NAME
+1###B-QTY	teaspoon###B-UNIT	oyster###B-NAME	sauce###I-NAME	(###I-NAME	optional###I-NAME	)###I-NAME
+4###B-QTY	cucumbers###B-NAME	,###OTHER	peeled###B-COMMENT
+2$1/2###B-QTY	tablespoons###B-UNIT	flour###B-NAME
+1###B-QTY	cup###B-UNIT	canned###B-COMMENT	jalapeno###B-NAME	peppers###I-NAME	,###B-COMMENT	cut###I-COMMENT	into###I-COMMENT	thin###I-COMMENT	strips###I-COMMENT
+1###B-QTY	shot###B-NAME	Old###I-NAME	Overholt###I-NAME	(###OTHER	or###OTHER	whatever###OTHER	rye###OTHER	you###OTHER	like###OTHER	)###OTHER
+2$2/3###OTHER	cups###B-UNIT	cake###B-COMMENT	flour###B-NAME	,###B-COMMENT	plus###I-COMMENT	more###I-COMMENT	for###I-COMMENT	dusting###I-COMMENT	the###I-COMMENT	pans###I-COMMENT
+1###B-QTY	tablespoon###B-UNIT	extra-virgin###B-NAME	olive###I-NAME	oil###I-NAME
+1/2###B-QTY	cup###B-UNIT	chopped###B-COMMENT	yellow###B-NAME	onions###I-NAME
+1###B-QTY	tablespoon###B-UNIT	olive###B-NAME	oil###I-NAME
+8###B-QTY	mushrooms###B-NAME
+1###B-QTY	medium###B-NAME	onion###I-NAME	,###OTHER	peeled###B-COMMENT	and###I-COMMENT	chopped###I-COMMENT
+1/2###B-QTY	pound###B-UNIT	long-grain###B-COMMENT	rice###B-NAME
+8###B-QTY	small###B-COMMENT	white###B-NAME	onions###I-NAME	,###OTHER	about###I-COMMENT	3/4###I-COMMENT	pound###I-COMMENT	,###OTHER	peeled###I-COMMENT
+2###B-QTY	cups###B-UNIT	finely###B-COMMENT	chopped###I-COMMENT	pecans###B-NAME
+4###B-QTY	ounces###B-UNIT	113###OTHER	grams###B-COMMENT	softened###I-COMMENT	butter###B-NAME	(###B-COMMENT	1###I-COMMENT	stick###I-COMMENT	)###I-COMMENT
+A###B-COMMENT	few###I-COMMENT	grinds###I-COMMENT	black###B-NAME	pepper###I-NAME
+1/4###B-QTY	cup###B-UNIT	port###B-NAME
+2###B-QTY	large###B-COMMENT	onions###B-NAME	,###B-COMMENT	chopped###I-COMMENT
+1/4###B-QTY	cup###B-UNIT	extra###OTHER	virgin###OTHER	olive###B-NAME	oil###I-NAME
+1/4###B-QTY	cup###B-UNIT	fresh###B-NAME	lemon###I-NAME	juice###I-NAME
+1/2###B-QTY	pound###B-UNIT	unsalted###B-NAME	butter###I-NAME	,###OTHER	melted###B-COMMENT
+1###B-QTY	tablespoon###B-UNIT	flour###B-NAME
+1/2###B-QTY	teaspoon###B-UNIT	freshly###B-COMMENT	ground###I-COMMENT	pepper###B-NAME
+Fruity###B-COMMENT	olive###B-NAME	oil###I-NAME	for###B-COMMENT	brushing###I-COMMENT
+1###B-QTY	teaspoon###B-UNIT	ground###B-COMMENT	allspice###B-NAME
+1###B-QTY	pound###B-UNIT	ripe###B-COMMENT	field###I-COMMENT	tomatoes###B-NAME
+1/2###B-QTY	cup###B-UNIT	finely###B-COMMENT	chopped###I-COMMENT	onion###B-NAME
+3###B-QTY	bunches###B-UNIT	fresh###B-COMMENT	dill###B-NAME
+1###B-QTY	tablespoon###B-UNIT	olive###B-NAME	oil###I-NAME
+2###B-QTY	large###B-COMMENT	eggs###B-NAME
+2###B-QTY	teaspoons###B-UNIT	mace###B-NAME
+3###B-QTY	cups###OTHER	vegetable###B-NAME	oil###I-NAME	,###OTHER	or###B-COMMENT	as###I-COMMENT	needed###I-COMMENT
+4###B-QTY	eggs\n###OTHER
+1###B-QTY	tablespoon###B-UNIT	hot###B-COMMENT	chili###B-NAME	oil###I-NAME
+1###B-QTY	small###B-COMMENT	red###B-NAME	bell###I-NAME	pepper###I-NAME
+Oil###OTHER	for###OTHER	greasing###OTHER	the###OTHER	loaf###OTHER	pans###OTHER
+3/4###B-QTY	ounce###B-UNIT	fresh###B-COMMENT	lemon###B-NAME	juice###I-NAME
+1$1/2###B-QTY	cups###B-UNIT	heavy###B-NAME	cream###I-NAME
+2###B-QTY	cups###B-UNIT	unskinned###B-COMMENT	cubed###I-COMMENT	new###I-COMMENT	potatoes###B-NAME
+1/4###B-QTY	cup###B-UNIT	raisins###B-NAME
+7###B-QTY	egg###B-NAME	yolks###B-COMMENT
+1/2###B-QTY	pound###B-UNIT	small###B-COMMENT	new###I-COMMENT	potatoes###B-NAME	,###B-COMMENT	scrubbed###I-COMMENT	and###I-COMMENT	cut###I-COMMENT	into###I-COMMENT	quarters###I-COMMENT
+1###B-QTY	teaspoon###B-UNIT	milk###B-NAME
+2###B-QTY	ribs###OTHER	celery###B-NAME	,###OTHER	finely###B-COMMENT	chopped###I-COMMENT
+4###B-QTY	ears###B-UNIT	of###B-COMMENT	corn###B-NAME	,###OTHER	kernels###I-COMMENT	cut###I-COMMENT	from###I-COMMENT	cob###I-COMMENT	,###OTHER	or###I-COMMENT	one###I-COMMENT	15$1/4###I-COMMENT	ounce###I-COMMENT	can###I-COMMENT	of###I-COMMENT	corn###B-NAME	,###OTHER	drained###I-COMMENT
+1/2###B-QTY	teaspoon###B-UNIT	kosher###B-NAME	salt###I-NAME
+210###B-QTY	grams###B-UNIT	all-purpose###B-NAME	flour###I-NAME	(###OTHER	1$3/4###OTHER	cups###OTHER	)###OTHER
+4###B-QTY	teaspoons###B-UNIT	good-quality###B-COMMENT	red###B-NAME	wine###I-NAME	vinegar###I-NAME
+1###B-QTY	cup###B-UNIT	clam###B-NAME	juice###I-NAME
+2###B-QTY	medium###B-COMMENT	onions###B-NAME	,###B-COMMENT	chopped###I-COMMENT
+1/2###B-QTY	teaspoon###B-UNIT	white###B-NAME	pepper###I-NAME
+1###B-QTY	cup###B-UNIT	flour###B-NAME
+1###B-QTY	ounce###B-UNIT	Cointreau###B-NAME
+2###B-QTY	teaspoons###B-UNIT	finely###B-COMMENT	minced###I-COMMENT	chopped###I-COMMENT	garlic###B-NAME
+Tortilla###B-NAME	chips###I-NAME	,###OTHER	if###B-COMMENT	serving###I-COMMENT	as###I-COMMENT	dip###I-COMMENT
+2###B-QTY	medium###OTHER	heads###B-UNIT	red###B-COMMENT	cabbage###B-NAME
+1###B-QTY	stalk###B-UNIT	celery###B-NAME	,###OTHER	trimmed###B-COMMENT
+3###B-QTY	tablespoons###B-UNIT	extra###B-COMMENT	virgin###I-COMMENT	olive###B-NAME	oil###I-NAME
+1###B-QTY	tablespoon###B-UNIT	sherry###B-NAME	vinegar\n###OTHER
+1###B-QTY	cup###B-UNIT	lump###B-COMMENT	crab###B-NAME	meat###I-NAME	,###B-COMMENT	picked###I-COMMENT	over###I-COMMENT	for###I-COMMENT	shells###I-COMMENT
+2###B-QTY	ounces###B-UNIT	walnuts###B-NAME	,###OTHER	about###B-COMMENT	1/2###I-COMMENT	cup###I-COMMENT
+3###B-QTY	tablespoons###B-UNIT	red###B-NAME	wine###I-NAME	vinegar###I-NAME
+1###B-QTY	tablespoon###B-UNIT	chopped###B-COMMENT	fresh###I-COMMENT	marjoram###B-NAME
+1/2###B-QTY	cup###B-UNIT	hoisin###B-NAME	sauce###I-NAME
+2$3/4###B-QTY	teaspoons###B-UNIT	ground###B-COMMENT	ginger###B-NAME
+1/2###B-QTY	cup###B-UNIT	dried###B-COMMENT	cranberries###B-NAME
+1###B-COMMENT	ripe###I-COMMENT	8-ounce###I-COMMENT	tomato###B-NAME
+Salt###OTHER	,###B-COMMENT	preferably###I-COMMENT	kosher###I-COMMENT	salt###B-NAME	,###I-COMMENT	to###I-COMMENT	taste###I-COMMENT
+1###B-QTY	tablespoon###B-UNIT	unsalted###B-NAME	butter###I-NAME
