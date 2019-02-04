@@ -96,3 +96,47 @@ a word, rather than giving up, they can try and "piece something together" from 
 in domains like tweet analysis, where text isn't always properly written, abbreviations are used, etc.
 
 I figured that since recipe lines were pretty short, I'd give character embeddings a shot, and I found that they helped a fair amount.
+
+
+## Ending Results
+
+Here are the results I got from my BiLSTM-CRF. The AllenNLP configuration file can be found in `config.json`
+
+```Accuracy: 80.02842928216063%```
+
+Remember, we're aiming for higher **macro F1 score**, rather than accuracy.
+
+| TAG          | precision | recall | f1-score | support |
+| ------------ | --------- | ------ | -------- | ------- |
+| B-COMMENT    | 0.74      | 0.86   | 0.80     | 308     |
+| B-NAME       | 0.86      | 0.85   | 0.85     | 489     |
+| B-QTY        | 0.99      | 0.99   | 0.99     | 402     |
+| B-RANGE_END  | 1.00      | 1.00   | 1.00     | 3       |
+| B-UNIT       | 0.92      | 0.98   | 0.95     | 319     |
+| I-COMMENT    | 0.77      | 0.74   | 0.75     | 529     |
+| I-NAME       | 0.57      | 0.73   | 0.64     | 338     |
+| OTHER        | 0.78      | 0.51   | 0.62     | 426     |
+|              |           |        |          |         |
+| micro avg    | 0.80      | 0.80   | 0.80     | 2814    |
+| macro avg    | 0.83      | 0.83   | 0.83     | 2814    |
+| weighted avg | 0.81      | 0.80   | 0.80     | 2814    |
+
+The macro average F1 score is a full 3% higher than the CRF alone, which means this model achieves the goal I'm looking for!
+
+Let's look at some examples:
+
+| 17      | pinches  | of      | kosher   | salt     |
+| ------- | -------- | ------- | -------- | -------- |
+| `B-QTY` | `B-UNIT` | `OTHER` | `B-NAME` | `I-NAME` |
+
+| A       | small   | dash     | of      | paprika  |
+| ------- | ------- | -------- | ------- | -------- |
+| `OTHER` | `OTHER` | `B-UNIT` | `OTHER` | `B-NAME` |
+
+| 1       | liter    | of      | milk     |
+| ------- | -------- | ------- | -------- |
+| `B-QTY` | `B-UNIT` | `OTHER` | `B-NAME` |
+
+| 1/2     | teaspoon | of      | horseradish |
+| ------- | -------- | ------- | ----------- |
+| `B-QTY` | `B-UNIT` | `OTHER` | `B-NAME`    |

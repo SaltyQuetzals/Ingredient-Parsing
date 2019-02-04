@@ -53,7 +53,7 @@ If, for whatever reason, you'd like to train the CRF, you can do so by typing:
 ./evaluate_crf.sh
 ```
 
-This script will create two files in `data/crf_results`, `results.txt`, and `test.tags`.
+This script will create two files in `data/crf_results`: `results.txt`, and `test.tags`.
 
 In `results.txt`, you'll notice that the input looks something like...
 
