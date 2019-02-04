@@ -8,9 +8,13 @@ NLP has come a long way since then, with the advent of LSTMs, word embeddings,
 and sequence-to-sequence modelling. I firmly believe that the use of recurrent
 neural networks can improve upon the overall ability of the tagger.
 
+## Thought Process
+
+For more about my decision-making process, check out [PROCESS.md](PROCESS.md).
+
 ## Reproduction
 
-The computer I'm currently using to train my model has an Intel Core i5 processor and a NVIDIA GEFORCE GTX 1070 GPU. Training 
+The computer I'm currently using to train my model has an Intel Core i5 processor and a NVIDIA GEFORCE GTX 1070 GPU.
 
 ### Experiment Data
 
@@ -90,7 +94,3 @@ I'm tired of just blindly bumbling around when using deep learning. I want to
 build something, and know _why_ I built it. Up until now, it's been mostly
 trial-and-error. I'd like to be able to at least justify my system architecture
 and learn a little more about the space of sequence tagging.
-
-## Thought Process
-
-For more about my decision-making process, check out [PROCESS.md](PROCESS.md).
